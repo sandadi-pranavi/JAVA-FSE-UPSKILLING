@@ -128,14 +128,14 @@
       <table border="1">
         <caption>Community Event Highlights</caption>
         <tr>
-          <td><img src="img1.jpg" alt="Event 1" title="Event 1" class="event-img"></td>
-          <td><img src="img2.jpg" alt="Event 2" title="Event 2" class="event-img"></td>
-          <td><img src="img3.jpg" alt="Event 3" title="Event 3" class="event-img"></td>
+          <td><img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQGSrWMdv-ew3Q/articleshare-shrink_800/articleshare-shrink_800/0/1732281578884?e=2147483647&v=beta&t=DUw_I08rK0XKFaUTq7Ni1EPM957v2miEO7W0KtV_Y7o" alt="Event 1" title="Event 1" class="event-img"></td>
+          <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWkbmIP8j3Iv5t0k89kTQk3c6dlnfXrPcapFVtj5opZoBw9ivtE2kx9fSy3oY-ZjRMtn0&usqp=CAU" alt="Event 2" title="Event 2" class="event-img"></td>
+          <td><img src="https://www.ctuniversity.in/images/events/all-events-bg.jpg" alt="Event 3" title="Event 3" class="event-img"></td>
         </tr>
         <tr>
-          <td><img src="img4.jpg" alt="Event 4" title="Event 4" class="event-img"></td>
-          <td><img src="img5.jpg" alt="Event 5" title="Event 5" class="event-img"></td>
-          <td><img src="img6.jpg" alt="Event 6" title="Event 6" class="event-img"></td>
+          <td><img src="https://img.freepik.com/free-vector/silhouette-crowd-party-people-starburst-background_1048-13832.jpg" alt="Event 4" title="Event 4" class="event-img"></td>
+          <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWhrG7pav7qkyT_7sJpIBdWOqTSpKF7JTj6w&s" alt="Event 5" title="Event 5" class="event-img"></td>
+          <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTShFfh1YE9lx1qZWRIg6zwsXO6o3q6HFQuAlE4hW4t9B3-SvEbvdncUuRLgnex5MXmdMU&usqp=CAU" alt="Event 6" title="Event 6" class="event-img"></td>
         </tr>
       </table>
 
